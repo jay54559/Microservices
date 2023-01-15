@@ -1,0 +1,6 @@
+######################################################################
+# This includes all the modules and the fixed version dependencies  #
+######################################################################
+Flask==1.1.2
+flask-mongoengine==0.9.5
+python-dateutil==2.8.1
